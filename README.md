@@ -5,10 +5,10 @@ Hello! I'm Руслан Єфімкін, a QA tester with a focus on web applicat
 
 
 🤝 Social Networks:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/руслан-єфімкін-713851350/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/ruslayni)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:ruslan.efimkin.school@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/nicestbeer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/руслан-єфімкін-713851350/)<br>
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:ruslan.efimkin.school@gmail.com)<br>
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/nicestbeer)<br>
+
 
 
 🛠 Tools:
