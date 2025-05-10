@@ -1,30 +1,24 @@
 ## Hi there 👋
 
-👨‍💻 About Me:
-Hello! I'm Руслан Єфімкін, a QA tester with a focus on web applications. I’ve completed my testing courses and am currently looking for a job in this field.
+👨‍💻 **About Me**:
+Hello! I'm **Ruslan Yefimkin**, a QA tester with a focus on web applications. I’ve completed my testing courses and am currently looking for a job in this field.
 
 
 🤝 Social Networks:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/руслан-єфімкін-713851350/)<br>
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:ruslan.efimkin.school@gmail.com)<br>
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/nicestbeer)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ruslan-yefimkin-713851350/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:ruslan.efimkin.school@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/nicestbeer)
 
 
 
-🛠 Tools:
-Postman: For API testing
-
-Jira: For project and issue tracking
-
-Testrail: For test case management
-
-Figma: For UI/UX design
-
-Git: Version control
-
-PostgreSQL: For database testing
-
-VSCode: Code editor
+🛠 Tools:<br>
+**Postman:** For API testing<br>
+**Jira:** For project and issue tracking<br>
+**Testrail:** For test case management<br>
+**Figma:** For UI/UX design<br>
+**Git:** Version control<br>
+**PostgreSQL:** For database testing<br>
+**VSCode:** Code editor<br>
 
 💻 Focus:
 I am primarily interested in testing web applications and using a variety of tools to ensure the quality and performance of the websites.
