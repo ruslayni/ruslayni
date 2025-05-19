@@ -5,9 +5,20 @@ Hello! I'm **Ruslan Yefimkin**, a QA tester with a focus on web applications. I‚
 
 
 ü§ù Social Networks:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ruslan-yefimkin-713851350/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:ruslan.efimkin.school@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/nicestbeer)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ruslan-yefimkin-713851350/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  
+  <a href="mailto:ruslan.efimkin.school@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
+  </a>
+  
+  <a href="https://t.me/nicestbeer" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 
