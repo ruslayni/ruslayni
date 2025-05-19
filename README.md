@@ -12,13 +12,14 @@ Hello! I'm **Ruslan Yefimkin**, a QA tester with a focus on web applications. I�
 
 
 🛠 Tools:<br>
-**Postman:** For API testing<br>
-**Jira:** For project and issue tracking<br>
-**Testrail:** For test case management<br>
-**Figma:** For UI/UX design<br>
-**Git:** Version control<br>
-**PostgreSQL:** For database testing<br>
-**VSCode:** Code editor<br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![TestRail](https://img.shields.io/badge/TestRail-009688?logo=data:image/svg+xml;base64,&style=for-the-badge)<br> <!-- Для нестандартных можно вставлять вручную -->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
 
 💻 Focus:
 I am primarily interested in testing web applications and using a variety of tools to ensure the quality and performance of the websites.
