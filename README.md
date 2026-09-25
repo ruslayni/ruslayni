@@ -10,11 +10,11 @@ Hello! I'm **Ruslan Yefimkin**, a QA tester with a focus on web applications.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   
-  <a href="mailto:ruslan.efimkin.school@gmail.com" target="_blank">
+  <a href="mailto:ruslan.yefimkin@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
   </a>
   
-  <a href="https://t.me/nicestbeer" target="_blank">
+  <a href="https://t.me/yefimkin_r" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" height="40"/>
   </a>
 </p>
