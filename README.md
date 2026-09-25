@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👨‍💻 **About Me**:
-Hello! I'm **Ruslan Yefimkin**, a QA tester with a focus on web applications. I’ve completed my testing courses and am currently looking for a job in this field.
+Hello! I'm **Ruslan Yefimkin**, a QA tester with a focus on web applications.
 
 
 🤝 Social Networks:
